@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 (flask-app-development-s24-Gothebro)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.12 (FlaskrPlus with Actions and Unit Tests)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
